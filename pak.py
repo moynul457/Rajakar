@@ -81,7 +81,7 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print  """ \n\x1b[1;91m<<-------------------------------------------------->>\n\x1b[1;93m\xe2\x9e\xa3 Author   : MOYNUL HASSAN   \n\x1b[1;93m\xe2\x9e\xa3 From     : Bogra   \n\x1b[1;93m\xe2\x9e\xa3 FB group : Termux help centre bd \n\x1b[1;93m\xe2\x9e\xa3 Help     : sent sms thcb modaretor moynul hassan.\n\x1b[1;91m<<-------------------------------------------------->>\n
 
- \033[1;96m          Telegram: t.me/BlackDevilMHK
+ \033[1;96m          Modified : Moynul Hassan 
 """
 
 ####Logo####
@@ -92,8 +92,8 @@ logo1 = """
 logo2 = """
 
 """
-Username = "MAHODI"
-CorrectPasscode = "BlackDevilMHK"
+Username = "MOYNUL"
+CorrectPasscode = "Hunter-moynul"
 
 loop = 'true'
 while (loop == 'true'):
@@ -105,7 +105,7 @@ while (loop == 'true'):
             loop = 'false'
     else:
             print "\033[1;91mâ˜ ï¸WRONG"
-            os.system('xdg-open https://www.facebook.com/BlackDevilMHK/')
+            os.system('xdg-open https://www.facebook.com/profile.php?id=100028650051426')
 
 ##### LICENSE #####
 #=================#
@@ -131,7 +131,7 @@ def pilih_login():
 def Zeek():
     os.system('clear')
     print logo1
-    print '\x1b[1;91m[1] MHK Start Cracking'
+    print '\x1b[1;91m[1] THCB Start Cracking'
     time.sleep(0.05)
     print '\x1b[1;92m[0] \033[1;93m Back'
     time.sleep(0.05)
