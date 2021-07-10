@@ -79,7 +79,7 @@ vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
 
 os.system("clear")
-print  """
+print  """ \n\x1b[1;91m<<-------------------------------------------------->>\n\x1b[1;93m\xe2\x9e\xa3 Author   : MOYNUL HASSAN   \n\x1b[1;93m\xe2\x9e\xa3 From     : Bogra   \n\x1b[1;93m\xe2\x9e\xa3 FB group : Termux help centre bd \n\x1b[1;93m\xe2\x9e\xa3 Help     : sent sms thcb modaretor moynul hassan.\n\x1b[1;91m<<-------------------------------------------------->>\n
 
  \033[1;96m          Telegram: t.me/BlackDevilMHK
 """
@@ -285,7 +285,7 @@ def action():
     print 'MHK Process Has Been Completedâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–’â–’â–’â–’...100%'
     print 'Total OK/CP : '+str(len(oks))+'/'+str(len(cpb))
     print('MHK Cloned Accounts Has Been Saved : save/cloned.txt')
-    jalan("Note : Your BD MHK(CP)Accounts Open after 5 to 8 days")
+    jalan("Note : Your M MHK(CP)Accounts Open after 5 to 8 days")
     print ''
     print """
     
